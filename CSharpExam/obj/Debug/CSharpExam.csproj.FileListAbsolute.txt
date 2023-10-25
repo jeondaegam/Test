@@ -1,0 +1,15 @@
+C:/CSharpProjects/CSharpExam/CSharpExam/bin/Debug/CSharpExam.exe.config
+C:/CSharpProjects/CSharpExam/CSharpExam/bin/Debug/CSharpExam.exe
+C:/CSharpProjects/CSharpExam/CSharpExam/bin/Debug/CSharpExam.pdb
+C:/CSharpProjects/CSharpExam/CSharpExam/obj/Debug/CSharpExam.csproj.AssemblyReference.cache
+C:/CSharpProjects/CSharpExam/CSharpExam/obj/Debug/CSharpExam.csproj.SuggestedBindingRedirects.cache
+C:/CSharpProjects/CSharpExam/CSharpExam/obj/Debug/CSharpExam.csproj.CoreCompileInputs.cache
+C:/CSharpProjects/CSharpExam/CSharpExam/obj/Debug/CSharpExam.exe
+C:/CSharpProjects/CSharpExam/CSharpExam/obj/Debug/CSharpExam.pdb
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/bin/Debug/CSharpExam.exe.config
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/bin/Debug/CSharpExam.exe
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/bin/Debug/CSharpExam.pdb
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/obj/Debug/CSharpExam.csproj.AssemblyReference.cache
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/obj/Debug/CSharpExam.csproj.CoreCompileInputs.cache
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/obj/Debug/CSharpExam.exe
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/CSharpExam/obj/Debug/CSharpExam.pdb

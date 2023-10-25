@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpExam", "CSharpExam\CSharpExam.csproj", "{2060F287-A9E8-4E4D-9A8E-B23EC7463417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tycoon", "Tycoon\Tycoon.csproj", "{69D315FD-F634-4130-A00F-85D21C04F119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2060F287-A9E8-4E4D-9A8E-B23EC7463417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2060F287-A9E8-4E4D-9A8E-B23EC7463417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2060F287-A9E8-4E4D-9A8E-B23EC7463417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2060F287-A9E8-4E4D-9A8E-B23EC7463417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D315FD-F634-4130-A00F-85D21C04F119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D315FD-F634-4130-A00F-85D21C04F119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D315FD-F634-4130-A00F-85D21C04F119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D315FD-F634-4130-A00F-85D21C04F119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C18BF9-339A-4E1C-A6D2-60D86FF36F65}
+	EndGlobalSection
+EndGlobal

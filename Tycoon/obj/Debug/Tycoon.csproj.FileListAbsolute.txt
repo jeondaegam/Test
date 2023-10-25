@@ -1,0 +1,15 @@
+C:/CSharpProjects/CSharpExam/Tycoon/bin/Debug/Tycoon.exe.config
+C:/CSharpProjects/CSharpExam/Tycoon/bin/Debug/Tycoon.exe
+C:/CSharpProjects/CSharpExam/Tycoon/bin/Debug/Tycoon.pdb
+C:/CSharpProjects/CSharpExam/Tycoon/obj/Debug/Tycoon.csproj.AssemblyReference.cache
+C:/CSharpProjects/CSharpExam/Tycoon/obj/Debug/Tycoon.csproj.SuggestedBindingRedirects.cache
+C:/CSharpProjects/CSharpExam/Tycoon/obj/Debug/Tycoon.csproj.CoreCompileInputs.cache
+C:/CSharpProjects/CSharpExam/Tycoon/obj/Debug/Tycoon.exe
+C:/CSharpProjects/CSharpExam/Tycoon/obj/Debug/Tycoon.pdb
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/bin/Debug/Tycoon.exe.config
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/bin/Debug/Tycoon.exe
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/bin/Debug/Tycoon.pdb
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/obj/Debug/Tycoon.csproj.AssemblyReference.cache
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/obj/Debug/Tycoon.csproj.CoreCompileInputs.cache
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/obj/Debug/Tycoon.exe
+/Users/yeoreum/CSharp Projects2/CSharpExam0728/Tycoon/obj/Debug/Tycoon.pdb
